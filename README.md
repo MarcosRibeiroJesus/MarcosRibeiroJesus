@@ -17,7 +17,7 @@ My name is Marcos Ribeiro. I work as a Software Developer Worldwide. This is The
 
 
 ### Analytics ⚙️
-<!-- ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRibeiroJesus&layout=full&count_private=true) -->
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRibeiroJesus&layout=full&count_private=true)
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=MarcosRibeiroJesus&count_private=true&show_icons=true)
 
