@@ -4,7 +4,6 @@
 
 My name is Marcos Ribeiro. I work as a Software Developer Worldwide. This is The Way!
 
-![](https://media.giphy.com/media/j0eRJzyW7XjMpu1Pqd/giphy.gif)
 
 <!-- ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MarcosRibeiroJesus&repo=MarcosRibeiroJesus&countColorcountColor) -->
 
